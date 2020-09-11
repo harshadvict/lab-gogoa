@@ -88,5 +88,5 @@ public class TestFareCalculator {
 			e.printStackTrace();
 		}
 	}
-}
-*/
+}*/
+

@@ -1,15 +1,11 @@
 package testing;
 
 /* Uncomment the below code to test your application
-
 import static org.junit.Assert.*;
 import org.junit.Test;
-
 import services.Booking;
-
 public class TestBooking {
 	Booking book = new Booking();
-
 	@Test
 	public void testBookingMethod() {
 		assertEquals(6000, book.booking(2, 3000),0);
@@ -24,3 +20,4 @@ public class TestBooking {
 	}
 }
 */
+
